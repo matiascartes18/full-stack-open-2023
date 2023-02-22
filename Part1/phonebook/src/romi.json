@@ -1,0 +1,20 @@
+[{
+  "nombre": "Cristian",
+  "casado": false,
+    "hijos": null,
+    "mascotas": [
+      {
+        "nombre": "Cachetes",
+        "edad": 2
+      },
+      {
+        "nombre": "Pelusa",
+        "edad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Av siempre viva",
+      "numero": 742
+    },
+
+}]
